@@ -2,6 +2,7 @@
 Scripts to display Flickr images on raspberry
 
 ## Dependencies
-# fbi (sudo apt-get -y install fbi)
-# python module flickrapi
-# pip install flickrapi
+* fbi 
+* * sudo apt-get -y install fbi)
+* python module flickrapi
+* * pip install flickrapi

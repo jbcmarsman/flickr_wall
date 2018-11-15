@@ -3,10 +3,10 @@ import pprint
 import os
 
 from xml.etree import ElementTree as ET
-
-api_key = '0ec2d371933c394f234864f58469e0ff'
-api_secret = '876f8a653c2cdeb7'
-
+           
+api_key = '################################'
+api_secret = '################'
+              
 flickr   = flickrapi.FlickrAPI(api_key, api_secret, format='parsed-json')
 flickr_e = flickrapi.FlickrAPI(api_key, api_secret, format='etree')
 
